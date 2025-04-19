@@ -21,7 +21,7 @@ Web-app с картой университета, на которой можно
 - Аграфенин Никита -> бекенд
 ```
 
-## Cсылочки 🔗
+## Идейные ссылочки в Сибирь 🔗
 1.  Фронтенд репозиторий --> <a href="https://github.com/Wyndace/hackathon2025tbank_frontend/">hackathon2025tbank_frontend</a>
 
 2.  Бекенд репозиторий --> <a href="https://github.com/Wyndace/hackathon2025tbank_backend/">hackathon2025tbank_backend</a>
