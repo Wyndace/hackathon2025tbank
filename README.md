@@ -16,4 +16,5 @@
 
 ## Идейные ссылочки
 Фронтенд репозиторий можно прочекать здесь -> <a href="https://github.com/Wyndace/hackathon2025tbank_frontend/">hackathon2025tbank_frontend</a>
+
 А бекенд историю вот тут -> <a href="https://github.com/Wyndace/hackathon2025tbank_backend/">hackathon2025tbank_backend</a>
